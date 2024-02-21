@@ -1,0 +1,10 @@
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\bin\Debug\RR_Majsaimnieciba.exe.config
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\bin\Debug\RR_Majsaimnieciba.exe
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\bin\Debug\RR_Majsaimnieciba.pdb
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.csprojAssemblyReference.cache
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.Form1.resources
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.Properties.Resources.resources
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.csproj.GenerateResource.cache
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.csproj.CoreCompileInputs.cache
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.exe
+Z:\Programmeshana\RR_Majsaimnieciba\RR_Majsaimnieciba\obj\Debug\RR_Majsaimnieciba.pdb
